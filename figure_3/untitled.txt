@@ -1,0 +1,16 @@
+cp novaseq_61bp-p-CFS_BS_2_SPSS_79_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_79_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_79_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_79_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_371_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_371_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_371_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_371_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_41_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_41_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_41_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_41_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_IRB_12_4_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_IRB_12_4_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_IRB_12_4_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_IRB_12_4_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_151_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_151_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_151_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_151_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_24_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_24_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_24_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_24_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_10_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_10_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_SPSS_10_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_SPSS_10_R2.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_IRB12_1_R1.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_IRB12_1_R1.fastq.gz
+cp novaseq_61bp-p-CFS_BS_2_IRB12_1_R2.fastq.gz no_trim_novaseq_61bp-p-CFS_BS_2_IRB12_1_R2.fastq.gz
